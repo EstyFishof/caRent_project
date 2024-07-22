@@ -1,0 +1,21 @@
+.slider{
+    /* margin-right: 10%; */
+    /* display: block; */
+    /* display: contents; */
+    margin-left: 16%;
+    margin-top: 10%;
+    width: 150%;
+    height: 100%;
+}
+
+.css-26w9jf-MuiMobileStepper-dot{
+    background-color: rgb(9, 4, 5) !important;
+}
+.imagSlide{
+    width: 100%;
+    margin-left: 4%;
+}
+.about{
+    margin-top: 25px;
+    margin-bottom: 100PX;
+}

@@ -1,0 +1,33 @@
+.NavBar{
+    background-color: rgb(26, 24, 24) !important;
+}
+
+.navBarLink{
+    color: rgb(246, 245, 240) !important;
+    text-decoration: none;
+}
+.navBarLink:hover{
+    color: rgb(137, 18, 9) !important;
+}
+.boxLink{
+    color: rgb(137, 18, 9) !important;
+    text-decoration: none;
+}
+.boxLink:hover{
+    color: black !important;
+}
+.navBarButton{
+    background-color: brown !important;
+    color: rgb(246, 245, 240) !important;
+    text-decoration: none;
+
+}
+.navBarButton:hover{
+    background-color: rgb(192, 109, 109) !important;
+}
+.user{
+    margin-left: 5%;
+    color: azure;
+    font-size: 30px;
+}
+

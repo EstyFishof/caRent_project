@@ -1,0 +1,14 @@
+.images{
+    /* background-color: black; */
+    width: 95%;
+    height: 100%;
+    margin-left: 3%;
+    margin-top: 5%;
+    margin-bottom: 9%;
+}
+body{
+    background-color: black;  
+}
+.pagination{
+    color:bisque !important;
+}

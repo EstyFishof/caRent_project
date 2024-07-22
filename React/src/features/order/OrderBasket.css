@@ -1,0 +1,20 @@
+.orderCard{
+    direction: rtl;
+    margin-top: 120px;
+     margin-bottom: 250px;
+     margin-right:30% !important;
+    margin: 180px 30% 8% 30%;
+}
+.buttonOrder{
+    margin: 25px 25px 25px 25px !important;
+}
+.emptyOrder{
+    margin-right: 25px !important;
+    margin-top: 25px !important;
+    margin-bottom: 25px !important;
+}
+
+.h7{
+    margin-right: 10% !important;
+    margin-top: 10% !important;
+}

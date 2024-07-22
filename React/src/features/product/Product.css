@@ -1,0 +1,19 @@
+.card{
+    width: 130%; 
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 5%;
+    margin-bottom: none;
+}
+/* .allCards{
+    margin-top: 5%;
+} */
+.buttonSearch{
+    background-color: brown !important;
+    color: rgb(246, 245, 240) !important;
+    text-decoration: none;
+    margin: auto auto 20px !important;
+}
+.buttonSearch:hover{
+    background-color: rgb(192, 109, 109) !important;
+}
